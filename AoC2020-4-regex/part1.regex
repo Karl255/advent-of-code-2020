@@ -1,0 +1,1 @@
+(((byr|iyr|eyr|hgt|hcl|ecl|pid):.+?)( |\n|$)){7,}|(((byr|iyr|eyr|hgt|hcl|ecl|pid|cid):.+?)( |\n|$)){8,}
